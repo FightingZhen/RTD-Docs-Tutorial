@@ -1,9 +1,9 @@
 # docs-tutorial
-记录通过Sphinx+ReadTheDocs构建个人技术文档全流程。
+记录通过Sphinx+ReadTheDocs构建个人技术文档全流程
 
 # 环境准备
 ## Sphinx安装
-Sphinx是一个基于python的文档生成工具，支持处理MarkDown格式撰写的文档，可以与Read the Docs平台很好的配合。
+Sphinx是一个基于python的文档生成工具，支持处理MarkDown格式撰写的文档，可以与Read the Docs平台很好的配合
 
 ```shell
 # 安装Sphinx及相关的依赖
