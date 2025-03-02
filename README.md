@@ -54,14 +54,15 @@ index.rst文件作为整个项目的起始文件，起到全局内容编排的�
 1. 首页的标题
 2. 首页的正文
 3. 目录编排，参考下方实现方式，支持在index.rst中编排多组
-```text
-.. toctree::
-   :maxdepth: 显示标题层级数（如设置为1仅显示一级标题）
-   :caption: 分组的子标题
-
-   文件1绝对路径（相对于index.rst文件开始的绝对路径）
-   文件2绝对路径（相对于index.rst文件开始的绝对路径）
-```
+    ```text
+    .. toctree::
+       :maxdepth: 显示标题层级数（如设置为1仅显示一级标题）
+       :caption: 分组的子标题
+    
+       文件1绝对路径（相对于index.rst文件开始的绝对路径）
+       文件2绝对路径（相对于index.rst文件开始的绝对路径）
+    ```
 
 # 参考文档
 [Sphinx + Read the Docs 从懵逼到入门 - 阿基米东的文章 - 知乎](https://zhuanlan.zhihu.com/p/264647009)
+[WeiChunyu/MS-GameTutorial](https://gitee.com/WeiChunyu-star/MS-GameTutorial)
