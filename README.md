@@ -1,5 +1,5 @@
-# docs-tutorial
-记录通过Sphinx+ReadTheDocs构建个人技术文档全流程
+# RTD-Docs-Tutorial
+记录通过Markdown + Sphinx + ReadTheDocs构建个人技术文档全流程
 
 # 环境准备
 ## Sphinx安装
