@@ -64,5 +64,5 @@ index.rst文件作为整个项目的起始文件，起到全局内容编排的�
     ```
 
 # 参考文档
-[Sphinx + Read the Docs 从懵逼到入门 - 阿基米东的文章 - 知乎](https://zhuanlan.zhihu.com/p/264647009)
-[WeiChunyu/MS-GameTutorial](https://gitee.com/WeiChunyu-star/MS-GameTutorial)
+- [Sphinx + Read the Docs 从懵逼到入门 - 阿基米东的文章 - 知乎](https://zhuanlan.zhihu.com/p/264647009)
+- [WeiChunyu/MS-GameTutorial](https://gitee.com/WeiChunyu-star/MS-GameTutorial)
