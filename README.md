@@ -24,6 +24,16 @@ pip install sphinx_markdown_tables
 - `Project release`：版本号
 - `Project language [en]`：项目语言，如想用中文可配置`zh_CN`
 
+构建完成后，在本地生成的项目文件结构如下：
+- source：
+    - _static：存放静态文件
+    - _templates：存放模板
+    - conf.py：Sphinx配置
+    - index.rst：文档起始文件
+- build：构建生成文件的保存目录
+- Makefile：构建相关指令
+- make.bat：Windows平台构建启动脚本
+
 ## 验证项目
 通过命令`sphinx-autobuild source build/html`可在本地快速启动一个服务，通过命令行提供的`http://127.0.0.1:8000`访问预览
 
