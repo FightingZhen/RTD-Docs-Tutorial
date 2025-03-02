@@ -30,5 +30,14 @@ pip install sphinx_markdown_tables
 ## 修改主题
 可以修改`conf.py`文件中的`html_theme`字段来修改主题，主流主题包括`sphinx_rtd_theme`
 
+## 支持Markdown类型文件
+在`source/conf.py`文件中，添加以下依赖即可：
+```python
+extensions = [
+    'recommonmark',
+    'sphinx_markdown_tables'
+ ]
+```
+
 # 参考文档
 [Sphinx + Read the Docs 从懵逼到入门 - 阿基米东的文章 - 知乎](https://zhuanlan.zhihu.com/p/264647009)
