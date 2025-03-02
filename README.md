@@ -63,6 +63,9 @@ index.rst文件作为整个项目的起始文件，起到全局内容编排的�
        文件2绝对路径（相对于index.rst文件开始的绝对路径）
     ```
 
+# 参考项目
+基于上述流程，我构建了自己的在线文档[FightingZhen/ascend-pt-ecosystem-docs](https://github.com/FightingZhen/ascend-pt-ecosystem-docs)，欢迎参考并提出您的宝贵意见及建议:)
+
 # 参考文档
 - [Sphinx + Read the Docs 从懵逼到入门 - 阿基米东的文章 - 知乎](https://zhuanlan.zhihu.com/p/264647009)
 - [WeiChunyu/MS-GameTutorial](https://gitee.com/WeiChunyu-star/MS-GameTutorial)
